@@ -1,5 +1,5 @@
 //#1 change this function into a ternary and assign it to variable called experiencePoints
-function experiencePoints() {
+function experiencepoints() {
     if (winBattle()) {
         return 10;
     } else {
